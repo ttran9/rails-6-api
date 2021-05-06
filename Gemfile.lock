@@ -69,6 +69,7 @@ GEM
       database_cleaner-core (~> 2.0.0)
     database_cleaner-core (2.0.1)
     diff-lcs (1.4.4)
+    dotenv (2.7.6)
     erubi (1.10.0)
     factory_bot (6.1.0)
       activesupport (>= 5.0.0)
@@ -183,6 +184,7 @@ DEPENDENCIES
   bootsnap (>= 1.4.2)
   byebug
   database_cleaner
+  dotenv (~> 2.7, >= 2.7.6)
   factory_bot_rails (~> 6.1)
   faker
   listen (~> 3.2)
